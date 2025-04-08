@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1743934073 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\sdl_utils.cpp
+	"include/sdl_utils.h"
+	<SDL_mixer.h>
+
+1743424640 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\sdl_utils.h
+	<SDL.h>
+	<SDL_image.h>
+
+1744110202 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\main.cpp
+	<iostream>
+	<map>
+	<ctime>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"include/sdl_utils.h"
+	"include/game_logic.h"
+	"include/render_utils.h"
+	"include/click.h"
+	"include/event.h"
+
+1743931215 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\sdl_utils.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1743425703 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\game_logic.h
+	<SDL.h>
+
+1743426208 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\render_utils.h
+	<SDL.h>
+
+1743426207 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\render_utils.cpp
+	"include/render_utils.h"
+
+1743943768 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\game_logic.cpp
+	"include/game_logic.h"
+	"include/sdl_utils.h"
+	<map>
+	<ctime>
+	<iostream>
+	<SDL_mixer.h>
+
+1744099060 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\utils.cpp
+	"include/utils.h"
+
+1744099093 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\utils.h
+
+1743991530 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\game_state.cpp
+	"include/game_state.h"
+
+1744084098 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\game_state.h
+
+1744084098 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\event.h
+	<SDL.h>
+	"game_state.h"
+	"game_resources.h"
+
+1744084098 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\game_resources.h
+	<SDL.h>
+
+1744110202 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\event.cpp
+	"include/event.h"
+	"include/game_logic.h"
+	"include/click.h"
+	<iostream>
+	<SDL_mixer.h>
+
+1743697881 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\game_resources.cpp
+	"include/game_resources.h"
+	"include/sdl_utils.h"
+
+1744110719 source:c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\click.cpp
+	"include/click.h"
+
+1744110638 c:\users\minhq_s0org74\onedrive\máy tính\game 8-puzzle\include\click.h
+
